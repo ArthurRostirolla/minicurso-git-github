@@ -1,2 +1,3 @@
 "say hello to my little friend"
 "obrigado amigo, você é um amigo"
+"It's been a long time my friend"
